@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my Bio
 
-I'm glad you are here. I plan to talk about ...
+My name is Brian and I'm a junior in Highschool
