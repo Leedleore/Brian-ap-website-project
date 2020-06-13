@@ -1,8 +1,6 @@
 title: My First GitHub Website
-theme: minima
 author: Leedleore
-description: > # this means to ignore newlines until "baseurl:"
-this is a site created entirely fo a single project for my computer science class
+description: this is a site created entirely fo a single project for my computer science class
 # social links
 github_username: Leedleore # DO NOT include the @ character, or else the build will fail!
 discord_username: Leedleore
