@@ -1,3 +1,7 @@
+---
+title: "Brag Sheet"
+date: 2020-6-12
+---
 I've been in Drama clubs and acting for as longas I can remember
 
 I've volenteered for the youth council
