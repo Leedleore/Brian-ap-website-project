@@ -1,6 +1,6 @@
 ---
 title: "Brag Sheet"
-date: 2020-6-12
+date: 2020-06-12
 ---
 I've been in Drama clubs and acting for as longas I can remember
 
